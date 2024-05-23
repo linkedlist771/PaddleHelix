@@ -116,7 +116,7 @@ requires = [
 'numpy',
 'pandas',
 'networkx',
-"sklearn",
+"scikit-learn",
 ]
 
 setup(
